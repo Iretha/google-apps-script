@@ -2,6 +2,8 @@
 
 The project uses TypeScript
 
-()[https://github.com/google/clasp/blob/master/docs/typescript.md]
+(Clasp Quick Start Guide)[https://github.com/google/clasp/blob/master/docs/typescript.md]
 
-MIT
+
+
+* This project is licensed under the terms of the MIT license.
